@@ -9,4 +9,11 @@
     <string name="button4">Build It Bigger</string>
     <string name="button5">XYZ Reader</string>
     <string name="button6">Capstone</string>
+
+    <string name="button1_toast">This button will launch my Spotify Streamer App!</string>
+    <string name="button2_toast">This button will launch my Scores App!</string>
+    <string name="button3_toast">This button will launch my Library App!</string>
+    <string name="button4_toast">This button will launch my Build It Bigger App!</string>
+    <string name="button5_toast">This button will launch my XYZ Reader App!</string>
+    <string name="button6_toast">This button will launch my Capstone App!</string>
 </resources>
